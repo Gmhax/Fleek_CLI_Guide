@@ -3,7 +3,7 @@ The Fleek Platform CLI is a command-line interface, that lets users interact wit
 
 
 
-# **Pre-Requirements 🛠**
+
 
 # **Install node.js & npm**
 
